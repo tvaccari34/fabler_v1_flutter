@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="tiagovaccari.fabler_flutter">
    <application
-        android:label="fabler_flutter"
+        android:label="Fabler"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

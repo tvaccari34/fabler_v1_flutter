@@ -1,4 +1,4 @@
-import 'package:fabler_flutter/story.dart';
+import 'package:fabler/story.dart';
 import 'package:flutter/material.dart';
 
 class StoryBrain {

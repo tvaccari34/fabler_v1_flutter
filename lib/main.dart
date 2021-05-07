@@ -1,9 +1,9 @@
-import 'package:fabler_flutter/story_brain.dart';
+import 'package:fabler/story_brain.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(Destini());
+void main() => runApp(Fabler());
 
-class Destini extends StatelessWidget {
+class Fabler extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
